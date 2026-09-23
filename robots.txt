@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fbkhlys.cn/sitemap.xml
